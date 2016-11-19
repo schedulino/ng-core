@@ -1,0 +1,41 @@
+{
+  "name": "@schedulino/ng-core",
+  "version": "0.0.1",
+  "description": "A Schedulino angular shared logic across application.",
+  "license": "SEE LICENSE IN LICENSE",
+  "private": true,
+  "main": "index.js",
+  "author": "Martin Micunda <martin@schedulino.com>",
+  "maintainers": [
+    {
+      "name": "Schedulino Team",
+      "email": "npm@schedulino.com",
+      "url": "https://schedulino.com"
+    }
+  ],
+  "keywords": [
+    "angular",
+    "ng"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schedulino/ng-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/schedulino/ng-core/issues"
+  },
+  "homepage": "https://github.com/schedulino/ng-core#readme",
+  "files": [
+    "lib/",
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6"
+  },
+  "engines": {
+    "node": ">=4.3.0",
+    "npm": ">=2.0.0"
+  }
+}
